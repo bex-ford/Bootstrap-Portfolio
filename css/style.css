@@ -20,14 +20,33 @@ body {
 .navbar-brand {
     background-color: #8892b0;
     color: #0a192f;
-    float: inline-end;
 }
 
 .nav-link {
     color: #0a192f;
-    float: inline-end;   
+
+}
+
+.card {
+    background-color: #8892b0;
+    border: none;
+}
+
+.card img {
+    object-fit: cover;
+    height: 200px;
+    width: 325px;
+    padding: 10px;
+
 }
 
 footer {
-    align-content: center;
+    padding: 30px;
+    text-align: center;
 }
+
+/* @media screen and (max-width:768px) {
+    nav {
+      flex: 0 0 100%;
+    }
+  } */
