@@ -16,13 +16,13 @@ I made sure that by adding the navigation links to the top right side of the pag
 
 - I built this project because when i complete this bootcamp course it will be a platform to present the work that i have done for future job prospects. 
 
-- When vising the page the user will be able visit the link (CV). When clicked a PDF of my CV will load.
+- When vising the page the user will be able visit the link (CV). When clicked a PDF of my CV will load. The user will also be able to click the links and it will take them directly to that specific section.
 
-- The image below is a grid layout using Bootstrap using (card).
+- The image below is a grid layout using Bootstrap (card).
 
 ![Links to grid](css/images/grid.png)
 
-The image below shows the footer element of the page where i have added icons of both Gitub and Linkedin when these icons are clicked it will open a separate page to both links.
+The image below shows the footer element of the page where i have added icons of both Gitub and Linkedin. When these icons are clicked it will open a separate page to both links. I have also created a hover effect using CSS.
 
 ![Links to github and Linkedin](css/images/footer.png)
 
