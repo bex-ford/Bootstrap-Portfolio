@@ -6,7 +6,7 @@
 
 Please see below a screenshot of the landing page that i have created. 
 
-![Landing Page](css/images/landingpage.png)
+![Landing Page](assets/landingpage.png)
 
 I made sure that my name was visible with an updated photo of myself was inserted into the webpage as you can see in the image.
 
